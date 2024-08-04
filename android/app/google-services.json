@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70133383638",
+    "project_id": "hashtechnology-d0326",
+    "storage_bucket": "hashtechnology-d0326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70133383638:android:a93838649501737eada477",
+        "android_client_info": {
+          "package_name": "com.hashtechnology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6oT5paRhfO6R0ooPe4Ofn4iF1S15Pac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
